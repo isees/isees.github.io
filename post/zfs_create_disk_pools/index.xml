@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZFS - CREATE DISK POOLS on CORNER OF THE WORLD</title>
+    <link>https://lovector.me/post/zfs_create_disk_pools/</link>
+    <description>Recent content in ZFS - CREATE DISK POOLS on CORNER OF THE WORLD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2018. All rights reserved.</copyright>
+    <lastBuildDate>Wed, 07 Aug 2019 19:46:29 +0801</lastBuildDate>
+    
+	<atom:link href="https://lovector.me/post/zfs_create_disk_pools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

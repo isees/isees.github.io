@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>v2ray on CORNER OF THE WORLD</title>
+    <link>https://lovector.me/tags/v2ray/</link>
+    <description>Recent content in v2ray on CORNER OF THE WORLD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2018. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 07 May 2020 20:24:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://lovector.me/tags/v2ray/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>V2ray &amp; Caddy Configuration</title>
+      <link>https://lovector.me/post/v2ray_caddy_config/</link>
+      <pubDate>Thu, 07 May 2020 20:24:00 +0800</pubDate>
+      
+      <guid>https://lovector.me/post/v2ray_caddy_config/</guid>
+      <description>#01 V2ray Install V2ray bash &amp;lt;(curl -L -s https://install.direct/go.sh) Config V2ray vim /etc/v2ray/config.json { &amp;quot;log&amp;quot;: { &amp;quot;access&amp;quot;: &amp;quot;/var/log/v2ray/access.log&amp;quot;, &amp;quot;error&amp;quot;: &amp;quot;/var/log/v2ray/error.log&amp;quot;, &amp;quot;loglevel&amp;quot;: &amp;quot;warning&amp;quot; //&amp;quot;loglevel&amp;quot;: &amp;quot;none&amp;quot; }, &amp;quot;inbound&amp;quot;: { &amp;quot;port&amp;quot;: 8280, &amp;quot;protocol&amp;quot;: &amp;quot;vmess&amp;quot;, &amp;quot;settings&amp;quot;: { &amp;quot;clients&amp;quot;: [ { &amp;quot;id&amp;quot;: &amp;quot;43d486e2-9xxf-f347-c08f-1284d3676844&amp;quot;, &amp;quot;level&amp;quot;: 1, &amp;quot;alterId&amp;quot;: 64 } ] }, &amp;quot;streamSettings&amp;quot;: { &amp;quot;network&amp;quot;: &amp;quot;ws&amp;quot;, &amp;quot;wsSettings&amp;quot;: { &amp;quot;path&amp;quot;:&amp;quot;/path&amp;quot; } }, &amp;quot;detour&amp;quot;: { &amp;quot;to&amp;quot;: &amp;quot;vmess-detour-471335&amp;quot; } }, &amp;quot;outbound&amp;quot;: { &amp;quot;protocol&amp;quot;: &amp;quot;freedom&amp;quot;, &amp;quot;settings&amp;quot;: {} } } Start v2ray</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>如何在linux系统启动时执行脚本/命令? on CORNER OF THE WORLD</title>
+    <link>https://lovector.me/post/how_to_run_scripts_on_start_up/</link>
+    <description>Recent content in 如何在linux系统启动时执行脚本/命令? on CORNER OF THE WORLD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2018. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 01 Apr 2018 19:19:23 +0800</lastBuildDate>
+    
+	<atom:link href="https://lovector.me/post/how_to_run_scripts_on_start_up/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
